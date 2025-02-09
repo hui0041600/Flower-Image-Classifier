@@ -10,7 +10,7 @@ Implement the model using both TensorFlow and PyTorch
 
 📂 Dataset
 Flowers Recognition Dataset (5 classes: Daisy, Dandelion, Rose, Sunflower, Tulip)
-dataset has been uploaded
+Dataset: Kaggle Flowers Recognition https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
 The dataset is split 75% for training and 25% for testing.
 
 🛠 Tools & Libraries Used
